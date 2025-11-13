@@ -20,3 +20,5 @@ repeticiones = prompt("Ingresa la cantidad de repeticiones");
 
 Console.log("Su cadena es:" + repetirLetras(letra,repeticiones));
 
+
+//Error corregido de hotfix
