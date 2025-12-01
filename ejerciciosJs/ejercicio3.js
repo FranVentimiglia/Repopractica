@@ -22,3 +22,5 @@ Console.log("Su cadena es:" + repetirLetras(letra,repeticiones));
 
 
 //Error corregido de hotfix
+
+//Correccion aprobada en desarrollo
